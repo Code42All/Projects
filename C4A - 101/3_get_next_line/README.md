@@ -1,4 +1,4 @@
-# 1 minute pour comprendre Get Next Line
+# Notes pour discuter de Get Next Line
 
 L'objectif ici est de présenter une approche algorithmique brute en pseudo code pour avoir un angle de vue alternatif sur ce projet.
 
