@@ -11,7 +11,7 @@
 ##### →     CA4 - Robots
 ---
 ##### →     CA4 - Visit
-##### &emsp;&emsp;       - [Présentation Peer to Peer](https://github.com/Code42All/Projects/tree/master/C4A-Visit/Pr%C3%A9sentation_Peer_to_Peer)
+##### &emsp;&emsp;       - [Présentation Pedagogie](https://github.com/Code42All/Projects/tree/master/C4A-Visit/Pr%C3%A9sentation_Pedagogie)
 ##### &emsp;&emsp;       - [Présentation Programmation](https://github.com/Code42All/Projects/tree/master/C4A-Visit/Pr%C3%A9sentation_Programmation)
 ---
 ##### →     C4A-Sondage_Enquetes
